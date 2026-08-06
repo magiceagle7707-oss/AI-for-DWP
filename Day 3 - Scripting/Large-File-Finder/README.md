@@ -26,7 +26,7 @@ It does not:
 1. Modify files or folders
 2. Change permissions
 3. Update registry
-4. Start or stop services
+4. Start or stop service
 5. Install or remove software
 
 It only reads file system metadata.
